@@ -26,7 +26,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 - **Data Preprocessing**: Python (Pandas)
 - **Knowledge Graph Construction**: Neo4j, GraphDB
 - **Vector Search**: langchain
-- **Language Model for Text Processing**: OpenAI GPT
+- **Language Model for Text Processing**: OpenAI GPT-4o
 - **Frontend**: Electron.js
 - **Visualization**: NetworkX
 
