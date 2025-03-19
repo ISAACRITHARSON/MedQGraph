@@ -77,5 +77,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Acknowledgments
 
 - **MIMIC Dataset** for providing realistic medical records.
-- **OpenAI GPT** for text processing and transformation.
+- **OpenAI GPT-4o** for text processing and transformation.
 - **Neo4j** for knowledge graph construction and management.
