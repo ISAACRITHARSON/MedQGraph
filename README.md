@@ -70,9 +70,8 @@ npm start
 
 
 ## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
+Copyright © 2025 MedQGraph Team. All rights reserved.
+This project is open-source and distributed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## Acknowledgments
