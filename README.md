@@ -29,8 +29,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 - **Vector Search**: LangChain
 - **Language Model for Text Processing**: OpenAI GPT-4o
 - **Frontend**: Electron.js
-- **Visualization**: NetworkX, Plotly
-
+- **Visualization**: NetworkX
 ---
 
 ## Outcomes
