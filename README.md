@@ -1,4 +1,4 @@
-# MedQGraph - beta
+# MedQGraph - beta release
 # Temporal Medical Record Knowledge Graphs for AI-Driven Healthcare Insights
 
 ## Overview
