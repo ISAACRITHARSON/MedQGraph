@@ -44,7 +44,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 ### Prerequisites
 1. **Node.js** and **npm** installed on your machine.
 2. **Python 3.8+** installed.
-3. **Neo4j** database set up and running.
+3. **Neo4j NoSQL** database set up and running.
 
 ### Installation
 
