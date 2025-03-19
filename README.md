@@ -1,11 +1,11 @@
 # MedQGraph
 # Temporal Medical Record Knowledge Graphs for AI-Driven Healthcare Insights
 
-## Project Overview
+## Overview
 
 Medical records and doctor-patient transcripts contain valuable insights that can significantly improve healthcare decision-making. However, these records are often unstructured, making it difficult to extract and analyze patient history over time. Our project proposes a **Temporal Medical Record Knowledge Graph (TMKG)** that transforms doctor transcripts into structured, queryable knowledge graphs. This system enables healthcare professionals to ask complex medical questions spanning multiple patient histories and time periods, unlocking deeper insights for diagnosis, treatment, and research.
 
-## Problem Statement
+## Challenge
 Currently, medical records exist as disparate text-based documents, making it challenging to:
 - Reduce the time required for hospital staff to access and interpret patient medical histories, enabling faster and more accurate treatment decisions.
 - Extract meaningful relationships between patient encounters, conditions, and treatments.
@@ -16,7 +16,7 @@ Our solution addresses these challenges by leveraging knowledge graph techniques
 
 ---
 
-## Proposed Solution
+## Solution
 
 Our solution transforms unstructured medical transcripts into a **Temporal Medical Knowledge Graph (TMKG)**. Using the MIMIC dataset, we preprocess data into structured JSON format, construct a knowledge graph with nodes and relationships, and incorporate temporal data for longitudinal tracking. The system enables efficient querying and retrieval of medical insights using vector embeddings and temporal analytics, empowering healthcare professionals with actionable, time-sensitive data.
 
