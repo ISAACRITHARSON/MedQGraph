@@ -5,6 +5,8 @@
 
 Medical records and doctor-patient transcripts contain valuable insights that can significantly improve healthcare decision-making. However, these records are often unstructured, making it difficult to extract and analyze patient history over time. Our project proposes a **Temporal Medical Record Knowledge Graph (TMKG)** that transforms doctor transcripts into structured, queryable knowledge graphs. This system enables healthcare professionals to ask complex medical questions spanning multiple patient histories and time periods, unlocking deeper insights for diagnosis, treatment, and research.
 
+![App Screenshot](https://drive.google.com/file/d/19T_mWYLXrJ5HgMA87x4u7d2APViDpwtW/view?usp=sharing)
+
 ## Challenge
 Currently, medical records exist as disparate text-based documents, making it challenging to:
 - Reduce the time required for hospital staff to access and interpret patient medical histories, enabling faster and more accurate treatment decisions.
