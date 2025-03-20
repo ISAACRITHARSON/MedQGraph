@@ -39,7 +39,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 - Demonstration of real-world healthcare insights derived from the graph.
 
 
-![App Screenshot](https://github.com/ISAACRITHARSON/MedQGraph/blob/main/Query.png)
+![App Screenshot](https://github.com/ISAACRITHARSON/MedQGraph/blob/main/results.png)
 
 ---
 
