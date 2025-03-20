@@ -23,6 +23,7 @@ Our solution addresses these challenges by leveraging knowledge graph techniques
 Our solution transforms unstructured medical transcripts into a **Temporal Medical Knowledge Graph (TMKG)**. Using the MIMIC dataset, we preprocess data into structured JSON format, construct a knowledge graph with nodes and relationships, and incorporate temporal data for longitudinal tracking. The system enables efficient querying and retrieval of medical insights using vector embeddings and temporal analytics, empowering healthcare professionals with actionable, time-sensitive data.
 
 
+
 [![Watch the video](https://github.com/ISAACRITHARSON/MedQGraph/blob/main/thumbnail.png)](https://www.youtube.com/watch?v=6N6dCgHwmdo)
 
 
