@@ -37,7 +37,8 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 - A functional prototype that converts medical transcripts into a structured temporal knowledge graph.
 - A queryable interface where users can ask complex medical questions.
 - Demonstration of real-world healthcare insights derived from the graph.
-  
+
+
 ![App Screenshot](https://github.com/ISAACRITHARSON/MedQGraph/blob/main/Query.png)
 
 ---
