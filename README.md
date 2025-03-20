@@ -76,6 +76,6 @@ Copyright © 2025 MedQGraph Team. All rights reserved.
 This project is open-source and distributed under the **Apache-2.0 License**. See the [LICENSE](LICENSE) file for details.
 ## Acknowledgments
 
-- **MIMIC IV Dataset** for providing realistic medical records.
+- **MIMIC IV Data** Beth Israel Deaconess Medical Center for providing realistic medical records.
 - **OpenAI Large Language Models** Text processing and transformation.
 - **Neo4j DB** Knowledge graph construction and management.
