@@ -8,9 +8,9 @@ import networkx as nx
 import plotly.graph_objects as go
 
 # Neo4j Connection Credentials
-URI = "neo4j+s://5f06d1b4.databases.neo4j.io"  # Change if hosted elsewhere
+URI = ""  # Change if hosted elsewhere
 USERNAME = "neo4j"
-PASSWORD = "Nk30WHZPhuWpLUeMRHyuspzr-xjoX7zWw1kcTm8JKlE"
+PASSWORD = ""
 
 # Function to create nodes in Neo4j
 def create_nodes(tx, row):
