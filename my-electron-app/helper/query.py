@@ -12,7 +12,7 @@ load_dotenv()
 llm = ChatOpenAI(
     temperature=0,
     model="gpt-4o",
-    openai_api_key="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"
+    openai_api_key=""
 )
 
 # Direct Neo4j connection
