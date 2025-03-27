@@ -48,7 +48,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 
 ---
 
-## Steps to Set Up the Software
+## Steps to Set Up the Desktop Software
 
 ### Prerequisites
 1. **Node.js** and **npm** installed on your machine.
