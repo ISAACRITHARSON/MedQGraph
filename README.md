@@ -1,4 +1,4 @@
-# MedQGraph Software v1 - Beta 
+# MedQGraph v1 - Software Beta 
 # Temporal Medical Record Knowledge Graphs for AI-Driven Healthcare Insights
 
 ## Overview
@@ -48,7 +48,7 @@ Our solution transforms unstructured medical transcripts into a **Temporal Medic
 
 ---
 
-## Steps to Set Up the Desktop Software
+## Steps to Set Up the Software
 
 ### Prerequisites
 1. **Node.js** and **npm** installed on your machine.
