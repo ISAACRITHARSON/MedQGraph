@@ -1,4 +1,4 @@
-# MedQGraph v1 - Software Beta 
+# MedQGraph Software v1 - Beta 
 # Temporal Medical Record Knowledge Graphs for AI-Driven Healthcare Insights
 
 ## Overview
